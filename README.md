@@ -1,1 +1,1 @@
-# Development SPA react App for online-school.
+# Development Custom react-components personal lib.
